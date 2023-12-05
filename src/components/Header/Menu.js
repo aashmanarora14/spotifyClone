@@ -16,21 +16,21 @@ export default function Menu() {
                
                 <NavLink activeClassName="!text-white " to={"/"} exact className="h-10 flex items-center text-sm font-bold text-link hover:text-white px-4 gap-4 transition-colors">
                 {window.location.href === 'http://localhost:3000/' ? <Icon name="acthome"/> : <Icon name="home"/>}
-                    Ana sayfa
+                    Home
                     </NavLink>
             </li>
             <li>
                 <NavLink activeClassName="!text-white" to={"/search"} className="h-10 flex items-center text-sm font-bold text-link hover:text-white px-4 gap-4 transition-colors">
                 {window.location.href === 'http://localhost:3000/search' ? <Icon name="actsearch"/> : <Icon name="search"/>}
 
-                    Ara
+                    Search
                 </NavLink>
             </li>
             <li>
                 <NavLink activeClassName="!text-white" to={"/collection"} className="h-10 flex items-center text-sm font-bold text-link hover:text-white px-4 gap-4 transition-colors">
                 {window.location.href === 'http://localhost:3000/collection' ? <Icon name="actcollection"/> : <Icon name="lib"/>}
 
-                    Kitaplığın
+                    Your Library
                 </NavLink>
             </li>
         </ul>

@@ -3,7 +3,7 @@ import React from 'react';
 export default function Search() {
   return (
     <div>
-      <h3 className='text-2xl text-white font-bold tracking-tight mb-4'>En çok dinlediğin türler</h3>
+      <h3 className='text-2xl text-white font-bold tracking-tight mb-4'>Browse All</h3>
       <div className='grid grid-cols-3 gap-x-5 mb-6'>
         <a className='overflow-hidden' href="#" >
           <div className='bg-purplebox h-[220px] rounded-lg p-4 relative'>
@@ -26,7 +26,7 @@ export default function Search() {
       </div>
 
       <div>
-      <h3 className='text-2xl text-white font-bold tracking-tight mb-4'>Hepsine göz at</h3>
+      <h3 className='text-2xl text-white font-bold tracking-tight mb-4'>Browse</h3>
       <div className='grid grid-cols-5 gap-5'>
       {new Array(40).fill(
 

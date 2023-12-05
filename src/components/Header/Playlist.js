@@ -9,7 +9,7 @@ export default function Playlist() {
             href="#"
             className="text-link hover:text-white text-sm font-semibold"
           >
-            3. Çalma Listem
+            Happy Raikoti
           </a>
         </li>
         <li className="mb-2">
@@ -17,7 +17,7 @@ export default function Playlist() {
             href="#"
             className="text-link hover:text-white text-sm font-semibold"
           >
-            Haluk ve ErenYalcn
+            Prem Dhillion
           </a>
         </li>
         <li className="mb-2">
@@ -25,7 +25,7 @@ export default function Playlist() {
             href="#"
             className="text-link hover:text-white text-sm font-semibold"
           >
-            Arabada +200km/h
+            Sippy Gill
           </a>
         </li>
         <li className="mb-2">
@@ -33,7 +33,7 @@ export default function Playlist() {
             href="#"
             className="text-link hover:text-white text-sm font-semibold"
           >
-            Haluk Levent List
+            JERRY
           </a>
         </li>
         <li className="mb-2">
@@ -41,7 +41,7 @@ export default function Playlist() {
             href="#"
             className="text-link hover:text-white text-sm font-semibold"
           >
-            Enstrümantal Müzik
+            HARVI
           </a>
         </li>
         <li className="mb-2">
@@ -49,7 +49,7 @@ export default function Playlist() {
             href="#"
             className="text-link hover:text-white text-sm font-semibold"
           >
-            Hip Hop Amerika
+            Jassa Dhillion
           </a>
         </li>
         <li className="mb-2">
@@ -57,7 +57,7 @@ export default function Playlist() {
             href="#"
             className="text-link hover:text-white text-sm font-semibold"
           >
-            3. Çalma Listem
+            Gippy Grewal
           </a>
         </li>
         <li className="mb-2">
@@ -65,7 +65,7 @@ export default function Playlist() {
             href="#"
             className="text-link hover:text-white text-sm font-semibold"
           >
-            Haluk ve ErenYalcn
+            Gurnam Bhullar
           </a>
         </li>
         <li className="mb-2">
@@ -73,7 +73,7 @@ export default function Playlist() {
             href="#"
             className="text-link hover:text-white text-sm font-semibold"
           >
-            Arabada +200km/h
+            Diljit Dosanjh
           </a>
         </li>
         <li className="mb-2">
@@ -81,7 +81,7 @@ export default function Playlist() {
             href="#"
             className="text-link hover:text-white text-sm font-semibold"
           >
-            Haluk Levent List
+            Hustinder
           </a>
         </li>
         <li className="mb-2">
@@ -89,7 +89,7 @@ export default function Playlist() {
             href="#"
             className="text-link hover:text-white text-sm font-semibold"
           >
-            Enstrümantal Müzik
+            Amrit Maan
           </a>
         </li>
         <li className="mb-2">
@@ -97,7 +97,7 @@ export default function Playlist() {
             href="#"
             className="text-link hover:text-white text-sm font-semibold"
           >
-            Hip Hop Amerika
+            Amrinder Gill
           </a>
         </li>
       </ul>

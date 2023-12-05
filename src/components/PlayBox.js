@@ -8,7 +8,7 @@ export default function PlayBox({title ,see = false, items}) {
             <h3 className='text-2xl text-white font-bold hover:underline tracking-tight'>{title}</h3>
             {see && (
                 <NavLink className={'text-link text-[12px] font-semibold tracking-widest bottom-0'} to={see}>
-                    HEPSİNİ GÖR
+                    Show All
                 </NavLink>
             )}
           </header>

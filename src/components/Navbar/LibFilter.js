@@ -8,28 +8,28 @@ export default function LibFilter() {
               <li>
                 <NavLink className={' p-3 rounded'} exact activeClassName="bg-topbutton p-3 rounded" to={"/collection"}>
                     <button className='font-semibold text-white active:bg-brenk leading-4 text-[15px] tracking-wide'>
-                        Çalma Listeleri
+                        Your Library
                     </button>
                 </NavLink>
                 </li>
                 <li>
                 <NavLink className={'p-3 rounded'} activeClassName="bg-topbutton p-3 rounded" to={"/collection/podcasts"}>
                     <button className='font-semibold text-white active:bg-brenk leading-4 text-[15px] tracking-wide'>
-                        Podcast'ler
+                        Podcasts
                     </button>
                 </NavLink>
                 </li>
                 <li>
                 <NavLink className={'p-3 rounded'} activeClassName="bg-topbutton p-3 rounded" to={"/collection/sanatciler"}>
                     <button className='font-semibold text-white active:bg-brenk leading-4 text-[15px] tracking-wide'>
-                        Sanatçılar
+                        Live Events
                     </button>
                 </NavLink>
                 </li>
                 <li>
                 <NavLink className={'p-3 rounded'} activeClassName="bg-topbutton p-3 rounded" to={"/collection/albumler"}>
                     <button className='font-semibold text-white active:bg-brenk leading-4 text-[15px] tracking-wide'>
-                        Albümler
+                        Albums
                     </button>
                 </NavLink>
               </li>

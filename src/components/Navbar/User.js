@@ -7,8 +7,8 @@ import {Icon} from 'components/Icons';
 export default function User() {
 
     const person = {
-        name: 'ErenYalcn',
-        avatar: 'https://i.scdn.co/image/ab6775700000ee85d42d00c70faf10da7c991fa8'
+        name: 'Aashman Arora',
+        avatar: 'https://i.pinimg.com/736x/7a/ec/a5/7aeca525afa2209807c15da821b2f2c6--app-logo-avatar.jpg'
 
     }
 
@@ -30,7 +30,7 @@ export default function User() {
             className={`h-10 flex px-2 text-sm font-semibold justify-between text-white opacity-80 items-center ${active && 'bg-menubg'}`}
             href="/#"
           >
-            Hesap
+             Account
             <Icon name="external" />
           </a>
         )}
@@ -41,7 +41,7 @@ export default function User() {
             className={`h-10 flex px-2 text-sm font-semibold justify-between text-white opacity-80 items-center ${active && 'bg-menubg'}`}
             href="/#"
           >
-            Profil
+            Profile
           </a>
         )}
       </Menu.Item>
@@ -51,7 +51,7 @@ export default function User() {
             className={`h-10 flex px-2 text-sm font-semibold justify-between text-white opacity-80 items-center ${active && 'bg-menubg'}`}
             href="/#"
           >
-            Oturumu kapat
+            Log Out
           </a>
         )}
       </Menu.Item>

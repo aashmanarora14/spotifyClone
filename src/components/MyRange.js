@@ -3,11 +3,7 @@ import React from 'react';
 import { Range, getTrackBackground } from 'react-range';
 import {useAudio} from 'react-use';
 
-export default function MyRange({value, step, min, max, onChange}) {
-
-
-
- 
+export default function MyRange({value, step, min, max, onChange}) { 
   return (
     
         <Range

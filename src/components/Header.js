@@ -26,13 +26,13 @@ export default function header() {
                 <span className='bg-white p-[6px] bg-opacity-70 group-hover:bg-opacity-90'>
                   <Icon name="plus" />
                 </span>
-                Çalma Listesi Oluştur
+                Add to Your Library
                 </a>
                 <a className="flex items-center gap-x-3 text-sm font-bold text-link hover:text-white mt-4 transition-colors group" href="#">
                 <span className='bg-gradient-to-r from-gra1 to-gra2  p-[6px] opacity-70 group-hover:opacity-100'>
                   <Icon name="menuheart" />
                 </span>
-                Beğenilen Şarkılar
+                Liked Songs
                 </a>
               </li>
             </ul>
